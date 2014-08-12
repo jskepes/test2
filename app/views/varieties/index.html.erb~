@@ -1,4 +1,4 @@
-<h1>Varieties</h1>
+<h1>Listing varieties</h1>
 
 <table>
   <thead>
@@ -22,4 +22,4 @@
 
 <br>
 
-<%= link_to 'New Variety', new_variety_path %>7
+<%= link_to 'New Variety', new_variety_path %>
